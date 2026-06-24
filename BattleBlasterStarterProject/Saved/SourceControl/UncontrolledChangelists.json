@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Maps/Level_1.umap",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_Tank.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_BattleBlasterGameMode.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Input/IMC_Default.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Input/IA_Move.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Input/IA_Turn.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_Tower.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Input/IA_Fire.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_Projectile.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_Projectile_Tank.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_BattleBlaster_PlayerController.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_BattleBlaster_GameInstance.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Maps/Level_3.umap",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Maps/Level_2.umap",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/WBP_ScreenMessage.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_HitCameraShake.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Blueprints/BP_DeathCameraShake.uasset",
+				"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Content/Input/IMP_Default.uasset"
+			]
+		}
+	]
+}

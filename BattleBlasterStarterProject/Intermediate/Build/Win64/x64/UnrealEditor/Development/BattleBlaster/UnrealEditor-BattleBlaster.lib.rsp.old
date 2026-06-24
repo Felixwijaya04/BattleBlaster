@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BattleBlaster.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/BattleBlasterEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/Module.BattleBlaster.gen.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/BasePawn.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/BattleBlaster.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/BattleBlasterGameInstance.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/BattleBlasterGameMode.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/HealthComponent.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/Projectile.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/Tank.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/Tower.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/PerModuleInline.gen.cpp.obj"
+"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/Default.rc2.res"
+/OUT:"D:/Unreal Project Files/BattleBlasterStarterProject+V1.zip+(2.46+Mb)/BattleBlasterStarterProject/Intermediate/Build/Win64/x64/UnrealEditor/Development/BattleBlaster/UnrealEditor-BattleBlaster.lib"
